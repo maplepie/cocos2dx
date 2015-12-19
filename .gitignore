@@ -1,5 +1,3 @@
 *
-
-!Classes/
-
-!proj.win32/res
+!/Classes
+!/proj.win32/res
